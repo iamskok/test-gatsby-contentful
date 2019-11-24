@@ -1,0 +1,11 @@
+{
+  "name": "test-gatsby-contentful",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby": "^2.18.2",
+    "gatsby-source-contentful": "^2.1.62",
+    "gatsby-transformer-remark": "^2.6.37"
+  }
+}
